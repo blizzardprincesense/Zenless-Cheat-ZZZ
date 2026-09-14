@@ -12,7 +12,7 @@ _A powerful hacks tool for Zenless Zone Zero with clean in-game overlay_
 
 ## Features
 
-![ZZZ Cheat Preview Hack](https://github.com/blizzardprincesense/Zenless-Cheat-ZZZ/blob/main/assets/GUI/image.jpg)
+![ZZZ Cheat Preview Hack](https://github.com/blizzardprincesense/Zenless-Cheat-ZZZ/blob/main/assets/image.jpg)
 
 
 | Player | World | Visuals | Misc |
